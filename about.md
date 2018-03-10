@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-For now this is an experiment. More content will follow.
+For now this is an experiment.
 
 ### More Information
 
-Comming soon. 
+I am a researcher interested on innovative science and technology with a strong inclination towards energy conversion system. I have an MSc in Engineering Physics with specialization in Nanotechnology. I really enjoy to look at new ideas, not only technological but also artistic (I also have a music degree on classical piano) and cultural (I have lived across 4 different countries in the last 6 years, speaking fluently 3 languages and basic knowledge of 2 more).  
 
-### Contact me
-
-Comming soon. 
----
-[email@domain.com](mailto:email@domain.com)
----
