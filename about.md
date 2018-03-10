@@ -13,4 +13,6 @@ Comming soon.
 ### Contact me
 
 Comming soon. 
-#[email@domain.com](mailto:email@domain.com)
+---
+[email@domain.com](mailto:email@domain.com)
+---
